@@ -57,7 +57,7 @@ export default function LoginForm() {
         <div>
           <div>
             <p className="text-center text-sm pb-8">
-              Don't have an account?{" "}
+              Don&apos;t have an account?{" "}
               <a href="#" className="text-blue-500">
                 Sign Up
               </a>
