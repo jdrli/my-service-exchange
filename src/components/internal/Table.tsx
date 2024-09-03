@@ -22,7 +22,7 @@ const TABLE_ROWS = [
 export default function DefaultTable() {
   return (
     <div className="h-full w-full m-20">
-      <table className="w-full min-w-max table-auto text-left border border-gray-200">
+      <table className="w-full min-w-max table-auto text-left border border-gray-300">
         <thead>
           <tr>
             {TABLE_HEAD.map((head) => (
